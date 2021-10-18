@@ -4,7 +4,7 @@ Each Problem and it's Implementation is stored in a sepearate folder for your ow
 Some of the related problems are: \n
 1. NLTK
 2. Classification 
-3.arsing and Chunking 
+3. Parsing and Chunking 
 4. Predictiong Language
 5. SpellingCorrection 
 6. Zipf
