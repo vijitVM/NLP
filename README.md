@@ -3,7 +3,7 @@ Here is the repository that contains all the problems and implementations of all
 Each Problem and it's Implementation is stored in a sepearate folder for your own reference.
 Some of the related problems are: \n
 1. NLTK
-2.Classification 
+2. Classification 
 3.arsing and Chunking 
 4. Predictiong Language
 5. SpellingCorrection 
