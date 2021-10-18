@@ -5,5 +5,5 @@ Some of the related problems are:
 1. NLTK
 2. Parsing and Chunking 
 3. Language Prediction
-4. SpellingCorrection 
+4. Spelling Correction 
 5. Zipf
